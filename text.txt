@@ -1,0 +1,25 @@
+	   ELECTRICITY BILLING COMPANY
+		Customer Details
+
+New Customer
+
+Name: Devang
+Meter No: 1001
+Address: Amrapali
+State: Uttar Pradesh
+City: Noida
+Email: devang@gmail.com
+Phone No.: 9876543210
+
+New Customer
+
+Name: Tejas
+Meter No: 1002
+Address: Saphire
+State: Uttar Pradesh
+City: Ghaziabad
+Email: tejas@gmail.com
+Phone No.: 9876543212
+
+
+
